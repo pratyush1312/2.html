@@ -2,3 +2,18 @@ this is the new file
 fssfsfsfs
 
 new files will be added here
+
+course = '''
+Hi Pratyush Pandey,
+
+We are very glad to have you as our costumer for the last 3years. 
+That's why we are sending this warm wish 
+of our 3yrs of costumer anniversery.
+
+Thank you,
+The support team
+
+Google! 
+'''
+print(course)
+
